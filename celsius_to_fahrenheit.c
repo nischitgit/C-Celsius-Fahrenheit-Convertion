@@ -2,8 +2,7 @@
 #include <stdio.h>
 
 int
-main ()
-{
+main () {
   // Variable
   float celsius;
   // Instruction
