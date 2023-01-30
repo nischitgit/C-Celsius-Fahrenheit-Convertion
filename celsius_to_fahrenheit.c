@@ -11,6 +11,6 @@ main () {
   scanf ("%f", &celsius);
   // Output
   fahrenheit = celsius * 9 / 5 + 32;
-  printf ("Fahrenheit: %f", fahrenheit);
+  printf ("Fahrenheit = %f", fahrenheit);
   return 0;
 }
