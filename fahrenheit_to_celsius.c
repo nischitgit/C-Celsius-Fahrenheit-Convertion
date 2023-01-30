@@ -11,6 +11,6 @@ main () {
   scanf ("%f", &fahrenheit);
   // Output
   celius = (fahrenheit - 32) * 5 / 9;
-  printf ("Celsius: %f", celius);
+  printf ("Celsius = %f", celius);
   return 0;
 }
