@@ -4,13 +4,13 @@
 int
 main () {
   // Variable
-  float fahrenheit;
+  float fahrenheit, celsius;
   // Instruction
   printf ("Fahrenheit to Celsius \n");
   printf ("Enter Fahrenheit: ");
   scanf ("%f", &fahrenheit);
   // Output
-  float celius = (fahrenheit - 32) * 5 / 9;
+  celius = (fahrenheit - 32) * 5 / 9;
   printf ("Celsius: %f", celius);
   return 0;
 }
