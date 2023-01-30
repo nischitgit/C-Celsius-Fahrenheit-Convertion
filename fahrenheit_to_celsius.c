@@ -3,7 +3,7 @@
 
 int
 main () {
-  // Variable
+  // Variables
   float fahrenheit, celsius;
   // Instruction
   printf ("Fahrenheit to Celsius \n");
