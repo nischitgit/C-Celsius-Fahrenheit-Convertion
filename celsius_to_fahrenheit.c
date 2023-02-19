@@ -1,8 +1,10 @@
 // Celsius to Fahrenheit
+// Author - @nischit_ig (Instagram)
 #include <stdio.h>
 
 int
-main () {
+main()
+{
   // Variables
   float celsius, fahrenheit;
   // Instruction
